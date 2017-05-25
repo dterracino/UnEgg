@@ -1,0 +1,9 @@
+Version history
+
+2011.7.20 unegg v0.5
+	Support ALZ format
+
+2011.5.20 unegg v0.2
+	Support 64bit build.
+	Use "/build-x64/makefile"
+

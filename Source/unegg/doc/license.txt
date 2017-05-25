@@ -1,0 +1,35 @@
+UnEGG linux version(v0.5)
+---------------------------
+
+1. General
+ This package includes a source code of UnEGG commandline software ("UnEGG") and makefile.
+ The UnEGG is a freeware that allows to decompress EGG and ALZ formats and view list.
+ The UnEGG includes the source of decompression algorithm. Please refer to the license below.
+
+2. Limitation
+ The UnEGG source code was tested in Ubuntu (11.04) and Mac OSX (10.6.x).
+ The UnEGG does not support for Big Endian. This will be supported in the future.
+
+3. About License
+ 1) PROPERTY: All rights regarding this package published on ALTools website (http://www.altools.com) are exclusively owned by ESTsoft Corporation ("Company"). For Commercial use, the Company's Approval is required.
+
+ 2) USE AND DISTRIBUTE: For non-commercial use, this package can be freely use and distributed. There are no restrictions to use and distributed this package inside of other software.
+
+ 3) NOTICE:  The compression algorithm ("AZO") in this package cannot be modified, or be used to develop an EGG format or compress algorithm. This License Agreement must be redistributed with the source code and document to use or distribute this package whether modified or not.
+
+ 4) RESPONSIBILITY: The responsibility for using this package is on the user. The Company has no legal responsibility for any loss for the user using this package.
+
+ 5) CHANGE OF LICENSE: This License Agreement can be changed by the Company without previous notice, and the new license takes priority to the old one.
+
+ 6) AGREEMENT: This package cannot be used without agreeing to this License Agreement. Using this package will be regarded as agreeing to this License Agreement provided by the Company.
+
+4. External License in package
+This package uses zlib that is public at http://www.zlib.net, and follows the "zlib License".
+This package uses bzip2 library public at http://bzip.org, and follows the "bzip License".
+This package uses lzma library public at http://www.7-zip.org, and follows the "lzma sdk License".
+
+
+Website: http://www.estsoft.com
+E-mail: support@estsoft.com
+
+Copyright(c) 2011-present ESTsoft Corp. All rights reserved.
