@@ -1,0 +1,33 @@
+**************************************************************************
+*                                                                        *
+* UNEGG.dll License v10.4.21.x                                           *
+*                                                                        *
+**************************************************************************
+
+[License Agreement for Using EGG File Format and Decompression Module] 
+
+1) LICENSE: All rights regarding the EGG file format and its decompression module ("EGG Module")
+ published on ALTools website (http://www.altools.com) are exclusively owned by ESTsoft Corporation ("Company").
+ For Commercial use, the Company¡¯s Approval is required. 
+
+2) USE AND DISTRIBUTE: For non-commercial use, EGG Module can be freely use and distributed. 
+There are no restrictions to use and distributed EGG Module inside of other software. 
+
+3) NOTICE: The EGG Module cannot be used to develop an algorithm to compress into EGG format. 
+This License Agreement must be redistributed with the source code and document to use or distribute the EGG Module whether modified or not. 
+
+4) RESPONSIBILITY: The responsibility for using the EGG Module is on the user. 
+The Company has no legal responsibility for any loss for the user using the EGG Module.
+
+5) CHANGE OF LICENSE: This License Agreement can be changed by the Company without previous notice, 
+and the new license takes priority to the old one.
+
+6) AGREEMENT: The EGG Module cannot be used without agreeing to this License Agreement. 
+Using the EGG Module will be regarded as agreeing to this License Agreement provided by the Company. 
+
+[About License] 
+The EGG Module uses zlib that is public at http://www.zlib.net, and follows the "zlib License".
+The EGG Module uses bzip2 library public at http://bzip.org, and follows the "bzip License". 
+The EGG Module is copyrighted by ESTsoft Corporation (http://www.estsoft.com), and all rights are reserved.
+
+Inquiries for license contact: altools@estsoft.com
